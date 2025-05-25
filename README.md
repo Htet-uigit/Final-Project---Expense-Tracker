@@ -1,9 +1,6 @@
 # Final-Project---Expense-Tracker
 This file is building an expense tracker mini-functional app as the final project in the class of Data Structure and Algorithm at Parami University in the Spring semester of 2025. 
 
-# Final-Project---Expense-Tracker
-This file is building an expense tracker mini-functional app as the final project in the class of Data Structure and Algorithm at Parami University in the Spring semester of 2025. 
-
 We used a LinkedList for adding and deleting the expenses for a day. and calculating the total amount.
 How to use: First, you have 5 choices of the  Menu to choose from, 
 1. Add New Expense
